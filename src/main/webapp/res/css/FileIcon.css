@@ -1,0 +1,59 @@
+
+.DefIcon{
+	    background: url(/FDS/res/image/WAR.png) center no-repeat;
+        background-repeat: no-repeat;
+}
+
+.dir-large {
+    background: url(/FDS/res/image/Folder.png) center no-repeat;
+        background-repeat: no-repeat;
+}
+
+.EXE-large {
+    background: url(/FDS/res/image/EXE_54_a0ff130.png) center no-repeat;
+        background-repeat: no-repeat;
+}
+
+.DLL-large {
+    background: url(/FDS/res/image/EXE_54_a0ff130.png) center no-repeat;
+        background-repeat: no-repeat;
+}
+
+.JAR-large {
+    background: url(/FDS/res/image/JAR.png) center no-repeat;
+        background-repeat: no-repeat;
+}
+.JS-large {
+    background: url(/FDS/res/image/JS.png) center no-repeat;
+        background-repeat: no-repeat;
+}
+
+.CSS-large {
+    background: url(/FDS/res/image/CSS.png) center no-repeat;
+        background-repeat: no-repeat;
+}
+
+.JPG-large,.JPEG-large,.PNG-large,.GIF-large,.BMP-large {
+    background: url(/FDS/res/image/JPG.png) center no-repeat;
+        background-repeat: no-repeat;
+}
+
+.HTML-large {
+    background: url(/FDS/res/image/HTML.png) center no-repeat;
+        background-repeat: no-repeat;
+}
+
+.SVG-large {
+    background: url(/FDS/res/image/SVG.png) center no-repeat;
+        background-repeat: no-repeat;
+}
+
+.TXT-large {
+    background: url(/FDS/res/image/TXT.png) center no-repeat;
+        background-repeat: no-repeat;
+}
+
+.WAR-large {
+    background: url(/FDS/res/image/WAR.png) center no-repeat;
+        background-repeat: no-repeat;
+}

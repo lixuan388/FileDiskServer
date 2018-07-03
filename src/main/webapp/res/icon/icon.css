@@ -1,0 +1,32 @@
+.fileicon{
+  background-image: url(icons.png);
+    background-repeat: no-repeat;
+}
+
+.fileicon {
+    cursor: default;
+    display: inline-block;
+    height: 26px;
+    width: 26px;
+
+float: left;
+}
+.icon-default {
+    background-position: -596px -566px;
+}
+
+.icon-dir {
+    background-position: -594px -862px;
+}
+
+.icon-zip, .icon-rar  {
+    background-position: -596px -1664px;
+}
+
+.icon-txt {
+    background-position: -596px -102px;
+}
+
+.icon-png, .icon-jpg, .icon-jpeg, .icon-bmp {
+    background-position: -596px -306px;
+}
